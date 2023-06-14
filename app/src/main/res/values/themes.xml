@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AppBar" parent="Theme.MaterialComponents.Light.NoActionBar" >
+        <item name="colorPrimary">@color/myAppBarColor</item>
+        <item name="colorPrimaryVariant">@color/myPrimaryDarkColor</item>
+        <item name="colorSecondary">@color/mySecondaryColor</item>
+
+    </style>>
+</resources>
